@@ -33,8 +33,8 @@ record yourself. No cloud API, no internet connection, no neural network.
 ## Install
 
 ```bash
-git clone https://github.com/ariaesm/speech-recognition.git
-cd speech-recognition
+git clone https://github.com/ariaesm/Speech-Recognition.git
+cd Speech-Recognition
 python3 -m pip install -r requirements.txt   # numpy, scipy
 ```
 
